@@ -1,0 +1,5 @@
+s=input("enter string")
+s=s.split()
+s=list(map(lambda s:s.capitalize(),s))
+b=' '.join(s)
+print(b)
