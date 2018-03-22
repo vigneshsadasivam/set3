@@ -1,2 +1,2 @@
-n=int(input("enter n"))
-print(chr(n+96).capitalize())
+m=int(input("enter m"))
+print(chr(m+96).capitalize())
