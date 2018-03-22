@@ -1,5 +1,5 @@
 a=[]
 for i in range(0,10):
-  b=int(input())
-  a.append(b)
+  c=int(input())
+  a.append(c)
 print(max(a))
