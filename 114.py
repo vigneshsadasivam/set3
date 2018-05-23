@@ -1,4 +1,4 @@
-n,k=map(int,input("Enter the number:").split(" "))
+n,k=map(int,input("Enter the numbers:").split(" "))
 a=[]
 for i in range(0,n):
   b=int(input())
